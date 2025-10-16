@@ -1727,7 +1727,7 @@
 
   <ItemGroup>
     <PackageReference Include="Jamesnet.Foundation" Version="9.1.13" />
-    <PackageReference Include="Jamesnet.Platform.Wpf" Version="9.1.13" />
+    <PackageReference Include="Jamesnet.Platform.Wpf" Version="9.1.13.1" />
   </ItemGroup>
 
   <ItemGroup>
